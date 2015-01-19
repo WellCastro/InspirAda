@@ -87,6 +87,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Loogica
 - Magazine Luiza
 - McDonalds 
+- Mercado Livre
 - Ministério Publico de Tocantins
 - Mobdoctor
 - MOBTech
